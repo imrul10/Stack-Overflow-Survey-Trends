@@ -1,22 +1,22 @@
-
-• RespondentID: Unique identifier for each respondent.
-• Year: The year the survey was conducted.
-• Country: The respondent’s country.
-• Employment: Employment status.
-• UndergradMajor: Undergraduate major.
-• DevType: Types of developers.
-• LanguageWorkedWith: Languages the respondent has worked with.
-• LanguageDesireNextYear: Languages the respondent wants to work with next year.
-• DatabaseWorkedWith: Databases the respondent has worked with.
-• DatabaseDesireNextYear: Databases the respondent wants to work with next year.
-• PlatformWorkedWith: Platforms the respondent has worked with.
-• PlatformDesireNextYear: Platforms the respondent wants to work with next year.
-• Hobbyist: Whether the respondent codes as a hobby.
-• OrgSize: Size of the organization the respondent works for.
-• YearsCodePro: Years of professional coding experience.
-• JobSeek: Whether the respondent is looking for a job.
 • ConvertedComp: Annual salary in USD.
-• WorkWeekHrs: Hours worked per week.
+• Country: The respondent’s country.
+• DatabaseDesireNextYear: Databases the respondent wants to work with next year.
+• DatabaseWorkedWith: Databases the respondent has worked with.
+• DevType: Types of developers.
+• Employment: Employment status.
+• Hobbyist: Whether the respondent codes as a hobby.
+• JobSeek: Whether the respondent is looking for a job.
+• LanguageDesireNextYear: Languages the respondent wants to work with next year.
+• LanguageWorkedWith: Languages the respondent has worked with.
 • NEWJobHunt: Reason for job hunting.
 • NEWJobHuntResearch: How the respondent searches for new jobs.
 • NEWLearn: How the respondent learns new technologies.
+• OrgSize: Size of the organization the respondent works for.
+• PlatformDesireNextYear: Platforms the respondent wants to work with next year.
+• PlatformWorkedWith: Platforms the respondent has worked with.
+• RespondentID: Unique identifier for each respondent.
+• UndergradMajor: Undergraduate major.
+• WorkWeekHrs: Hours worked per week.
+• Year: The year the survey was conducted.
+• YearsCodePro: Years of professional coding experience.
+
